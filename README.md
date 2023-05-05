@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-
+I am a french student in web development at LaPlateforme Marseille.  You can see on my github the different projects I've done during the year. I'm currently looking for a work-study for the next school year.
 
 
 ## 🛠 Skills
