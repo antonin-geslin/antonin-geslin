@@ -10,6 +10,9 @@ Web :
 - HTML
 - CSS
 - JS
+- PHP
+- Wordpress
+- Figma
 
 Software :
 - Python
